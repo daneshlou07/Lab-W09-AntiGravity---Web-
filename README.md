@@ -88,12 +88,11 @@ npm run start
 
 ---
 
-## 🌐 Deployment to Vercel
+## 🌐 Live Deployment on Vercel
 
-1. Log in to [Vercel](https://vercel.com).
-2. Click **Add New Project** and import the GitHub repository: `https://github.com/daneshlou07/Lab-W09-AntiGravity---Web-`.
-3. Keep default Next.js build settings and click **Deploy**.
-4. Your site is live!
+The web application is live in production:
+👉 **[https://lab-w09-anti-gravity-web.vercel.app/](https://lab-w09-anti-gravity-web.vercel.app/)**
+
 
 ---
 
